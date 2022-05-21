@@ -8,7 +8,7 @@
 </svelte:head>
 
 <section>
-	<h1>Welcome
+	<h1>SvelteKitStripped by <a href="https://github.com/MaDrCloudDev">MaDrCloudDev</a>
 		<div class="welcome">
 		</div>
 	</h1>
