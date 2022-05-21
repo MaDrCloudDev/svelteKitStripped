@@ -3,18 +3,18 @@
 </script>
 
 <svelte:head>
-	<title>Home</title>
+	<title>MaDr | svelteKitStripped</title>
 	<meta name="description" content="SvelteKitStripped" />
 </svelte:head>
 
 <section>
-	<h1>SvelteKitStripped by <a href="https://github.com/MaDrCloudDev">MaDrCloudDev</a>
+	<h1>svelteKitStripped by <a href="https://github.com/MaDrCloudDev">MaDrCloudDev</a>
 		<div class="welcome">
 		</div>
 	</h1>
 
 	<h2>
-		Welcome.
+		Hello World.
 	</h2>
 
 </section>
