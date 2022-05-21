@@ -2,7 +2,7 @@
 </script>
 
 <svelte:head>
-	<title>About</title>
+	<title>About | svelteKitStripped</title>
 	<meta name="description" content="About this app" />
 </svelte:head>
 
