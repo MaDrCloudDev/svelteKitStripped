@@ -4,23 +4,17 @@
 
 <svelte:head>
 	<title>Home</title>
-	<meta name="description" content="Svelte demo app" />
+	<meta name="description" content="SvelteKitStripped" />
 </svelte:head>
 
 <section>
-	<h1>
+	<h1>Welcome
 		<div class="welcome">
-			<picture>
-				<source srcset="svelte-welcome.webp" type="image/webp" />
-				<img src="svelte-welcome.png" alt="Welcome" />
-			</picture>
 		</div>
-
-		to your new<br />SvelteKit app
 	</h1>
 
 	<h2>
-		try editing <strong>src/routes/index.svelte</strong>
+		Welcome.
 	</h2>
 
 </section>
