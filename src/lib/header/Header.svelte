@@ -34,8 +34,8 @@
 	}
 
 	.corner {
-		width: 4em;
-		height: 4em;
+		width: 3em;
+		height: 3em;
 	}
 
 	.corner a {
@@ -47,8 +47,8 @@
 	}
 
 	.corner img {
-		width: 3em;
-		height: 3em;
+		width: 2em;
+		height: 2em;
 		object-fit: contain;
 	}
 
