@@ -7,4 +7,4 @@ Helps me learn Svelte and understand how to pull in componenets/libraries. I fou
 
 npm i
 
-npm run dev```
+npm run dev
