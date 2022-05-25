@@ -4,7 +4,7 @@
 
 <svelte:head>
 	<title>MaDr | svelteKitStripped</title>
-	<meta name="description" content="SvelteKitStripped" />
+	<meta name="description" content="SvelteKitStripped by MaDr" />
 </svelte:head>
 
 <section>
@@ -26,13 +26,7 @@
 				</svg></a>
 		</div>
 	</h1>
-
-	<h2>
-		Hello World.
-	</h2>
-
 </section>
-
 <style>
 	section {
 		display: flex;
