@@ -10,7 +10,7 @@
 </main>
 
 <footer>
-	<p><a href="svelteKitStripped">svelteKitStripped</a> Copyright © 2022 <a href="https://MaDr.io">MaDr</a></p>
+	<p>Copyright © 2022 <a href="https://MaDr.io">MaDr</a>. svelteKitStripped.</p>
 </footer>
 
 <style>
