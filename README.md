@@ -1,7 +1,7 @@
 # [svelteKitStripped](https://sveltekitstripped.netlify.app)
 A stripped down version of the SvelteKit demo app.
 
-Helps me learn to use svelte and pull in componenets.
+Helps me learn to use svelte and pull in componenets/libraries.
 
 nvm i 18
 
