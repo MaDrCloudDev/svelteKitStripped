@@ -10,7 +10,7 @@
 </main>
 
 <footer>
-	<p><a href="https://github.com/MaDrCloudDev/svelteKitStripped">svelteKitStripped</a> Copyright © 2022 <a href="https://MaDr.io">MaDr</a></p>
+	<p><a href="https://github.com/MaDrCloudDev/svelteKitStripped">svelteKitStripped</a> made by <a href="https://MaDr.io">MaDr</a></p>
 </footer>
 
 <style>
